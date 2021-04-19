@@ -11,4 +11,4 @@ Este es el texto del repositorio...
 **Texto en negritas**  
 *Texto en italica*
 
-[este es un enlace al sitio web de procesamiento de datos geográficos](https://gf0604-procesamientodatosgeograficos.github.io/2021i/)
+[Este es un enlace al sitio web de procesamiento de datos geográficos](https://gf0604-procesamientodatosgeograficos.github.io/2021i/)
