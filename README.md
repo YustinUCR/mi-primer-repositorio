@@ -7,6 +7,6 @@
 ###### Encabezado de nivel 6
 
 
-Este es el texto del repositorio...
+Este es el texto del repositorio...  
 **Texto en negritas**  
 *Texto en italica*
